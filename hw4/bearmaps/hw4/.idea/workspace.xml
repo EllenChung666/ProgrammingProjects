@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="85c3b4fa-61ab-406c-b029-69ec6ce791d0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../hw1/es/datastructur/synthesizer/AbstractBoundedQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../hw1/es/datastructur/synthesizer/BoundedQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../hw3/hw3/hash/hw3/hash/OomageTestUtility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lab8/MyHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lab9/MyTrieSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../proj1a/src/ArrayDeque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../proj1a/src/LinkedListDeque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../proj1a/src/LinkedListDequeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../proj1b/src/CharacterComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../proj1b/src/Deque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../proj1b/src/LinkedListDeque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../proj1b/src/OffByN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../proj1b/src/OffByOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../proj1b/src/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../proj1b/src/TestOffByN.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../clab/clab6/BubbleGrid.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../clab/clab6/BubbleGrid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../clab/clab6/UnionFind.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../clab/clab6/UnionFind.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../hw1/es/datastructur/synthesizer/ArrayRingBuffer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../hw1/es/datastructur/synthesizer/ArrayRingBuffer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../hw2/hw2/Percolation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../hw2/hw2/Percolation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../hw2/inputFiles/snake1001.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../hw3/hw3/hash/ComplexOomage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../hw3/hw3/hash/ComplexOomage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../hw3/hw3/hash/HashTableDrawingUtility.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../hw3/hw3/hash/HashTableDrawingUtility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../hw3/hw3/hash/HashTableVisualizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../hw3/hw3/hash/HashTableVisualizer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../hw3/hw3/hash/Hint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../hw3/hw3/hash/Hint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../hw3/hw3/hash/Oomage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../hw3/hw3/hash/hw3/hash/Oomage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../hw3/hw3/hash/OomageTestUtility.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../hw3/hw3/hash/SimpleOomage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../hw3/hw3/hash/hw3/hash/SimpleOomage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../hw3/hw3/hash/TestComplexOomage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../hw3/hw3/hash/TestComplexOomage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../hw3/hw3/hash/TestJankyOomage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../hw3/hw3/hash/hw3/hash/TestJankyOomage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../hw3/hw3/hash/TestNiceSpreadOomage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../hw3/hw3/hash/hw3/hash/TestNiceSpreadOomage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../hw3/hw3/hash/TestSimpleOomage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../hw3/hw3/hash/hw3/hash/TestSimpleOomage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab6/UnionFind.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lab6/UnionFind.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab7/InsertInOrderSpeedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab7/InsertRandomSpeedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab7/Map61B.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab7/StringUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab7/TestBSTMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab7/TestBSTMapExtra.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab7/ULLMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab8/TestMyHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lab8/TestMyHashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../proj1a/LinkedListDequeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../proj1b/CharacterComparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../proj1b/PalindromeFinder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../proj1b/TestOffByOne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../proj1b/TestPalindrome.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1ezwkYMyZqpGNilON8gW1UxSAuq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85c3b4fa-61ab-406c-b029-69ec6ce791d0" name="Default Changelist" comment="" />
+      <created>1595337872893</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595337872893</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="208" y="31" key="SettingsEditor" timestamp="1595343238909">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="208" y="31" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1595343238909" />
+  </component>
+</project>
