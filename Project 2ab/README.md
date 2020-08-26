@@ -12,5 +12,5 @@ This project is call "Project 2AB: Extrinsic PQ and KDTree". \\
 
  https://sp19.datastructur.es/materials/proj/proj2ab/proj2ab\\
  
- Everything is written by myself. 
+ Everything is written by myself. In order for this to run, import Javalib as library. 
 
